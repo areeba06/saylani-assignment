@@ -1,0 +1,19 @@
+#header {
+    color: royalblue;
+    text-align: center;
+}
+
+#main {
+    color: black;
+    background-color:royalblue;
+}
+
+input{
+    padding: 5px;
+}
+td{
+    padding: 10px;
+}
+.btn{
+    text-align: center;
+}
